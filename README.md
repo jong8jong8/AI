@@ -9,7 +9,7 @@
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
 
 
-### 1. Introduction
+### 1. [Introduction](./joelgrus/ch01.md)
 ### 2. A Crash Course in Python
 ### 3. Visualizing Data
 ### 4. Linear Algebra
