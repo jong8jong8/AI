@@ -7,7 +7,7 @@
 
 # Data Science from Scratch ([2nd ed.](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/ref=sr_1_1?crid=36YGPBO2HLBM3&keywords=data+science+from+scratch&qid=1644240129&s=books&sprefix=data+science+from%2Cstripbooks%2C357&sr=1-1))
 - [Errata](https://www.oreilly.com/catalog/errata.csp?isbn=9781492041139)
-- EBook (PDF) (Part 1[1-228]()) (Part 2[229-514]())
+- EBook (PDF) ([Part 1]()) ([Part 2]())
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
 
 
