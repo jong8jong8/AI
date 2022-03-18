@@ -1,6 +1,6 @@
 # Artificial Intelligence (AI)
 - [MIT 8.06SC Linear Algebra](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)
-- [Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [3Blue1Brown Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [MIT 6.036: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Data Science from Scratch](./dsfs/README.md)
