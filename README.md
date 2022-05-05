@@ -10,5 +10,5 @@
 - [Data Science from Scratch](./dsfs/README.md)
 - [3Blue1Brown Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [3Blue1Brown Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Khab Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
