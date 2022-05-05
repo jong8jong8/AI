@@ -2,6 +2,7 @@
 
 ## Python Programming (파이썬 프로그래밍)
 - [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [Harvard CS50 Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 
 ## Mathematics for AI (인공지능 수학)
 - [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
