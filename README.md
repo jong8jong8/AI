@@ -15,6 +15,7 @@
 ## Machine Learning (기계학습)
 - [3Blue1Brown Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [MIT 6.036 Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+- [MIT 6.825 Techniques in Artificial Intelligence](https://ocw.mit.edu/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/)
 
 ## Statistical Learning (통계학습)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
