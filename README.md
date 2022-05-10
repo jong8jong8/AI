@@ -11,6 +11,7 @@
 
 ## Data Science (데이터 과학)
 - [MIT 6.0002 Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm)
+- [MIT 15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/)
 
 ## Machine Learning (기계학습)
 - [3Blue1Brown Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
