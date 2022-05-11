@@ -30,3 +30,6 @@
 ## Machine Learning with Graphs
 - [Stanford CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
   - [Youtube](https://www.youtube.com/watch?v=JAB_plj2rbA&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&start_radio=1&rv=JAB_plj2rbA&t=24) 
+
+## Pattern Recognition
+- [MIT 1.126J Pattern Recognition and Analysis](https://ocw.mit.edu/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/)
