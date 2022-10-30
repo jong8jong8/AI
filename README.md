@@ -15,6 +15,8 @@
 - [MIT 15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/)
 
 ## Machine Learning (기계학습)
+- [생활코딩 머신러닝 이론편]()
+- [생활코딩 머신러닝 실습편 with 파이썬 텐서플로]()
 - [3Blue1Brown Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [MIT 6.036 Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 - [MIT 6.034 Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
