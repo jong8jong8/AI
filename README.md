@@ -16,10 +16,10 @@
 
 ## Machine Learning (기계학습)
 - [생활코딩 머신러닝 이론편](https://opentutorials.org/course/4548)
-  - [생활코딩 JavaScript - 웹 프로그래밍 참고용](https://opentutorials.org/course/743) 
   - [Teachable Machine](https://teachablemachine.withgoogle.com/) 
   - [세상에서 가장 쉬운 인공지능 만들기 1탄](https://www.youtube.com/watch?v=USQGTW34lO8)
   - [세상에서 가장 쉬운 인공지능 만들기 2탄](https://www.youtube.com/watch?v=9SwdGFzFb5Y)
+  - [생활코딩 JavaScript - 웹 프로그래밍 참고용](https://opentutorials.org/course/743) 
 - [생활코딩 머신러닝 실습편 with 파이썬 텐서플로]()
   - [Tensorflow 101](https://opentutorials.org/module/4966)
   - [Tensorflow 102](https://opentutorials.org/module/5268)
