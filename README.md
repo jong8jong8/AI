@@ -15,8 +15,8 @@
 - [MIT 15.075J Statistical Thinking and Data Analysis](https://ocw.mit.edu/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/)
 
 ## Machine Learning (기계학습)
-- [생활코딩 머신러닝 이론편](https://ebook.kyobobook.co.kr/dig/pnd/welcome)
-- [생활코딩 머신러닝 실습편 with 파이썬 텐서플로](https://ebook.kyobobook.co.kr/dig/pnd/welcome)
+- [생활코딩 머신러닝 이론편](https://opentutorials.org/course/4548)
+- [생활코딩 머신러닝 실습편 with 파이썬 텐서플로]()
   - [Tensorflow 101](https://opentutorials.org/module/4966)
   - [Tensorflow 102](https://opentutorials.org/module/5268)
 - [3Blue1Brown Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
