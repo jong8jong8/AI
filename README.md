@@ -35,6 +35,7 @@
 
 ## Deep Learning (심층학습)
 - [MIT 6.S191: Introduction to Deep Learning](https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/)
+- [Stanford CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
 
 ## Machine Learning with Graphs
 - [Stanford CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
