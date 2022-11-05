@@ -1,6 +1,3 @@
-https://talk.brave.com/0c4nDf_5heN2tmkdUQh2QYptzW-b9qwvndk-427e2y8
-
-
 
 # Artificial Intelligence (AI) Courses
 
