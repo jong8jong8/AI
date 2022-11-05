@@ -1,4 +1,10 @@
+https://talk.brave.com/0c4nDf_5heN2tmkdUQh2QYptzW-b9qwvndk-427e2y8
+
+
+
 # Artificial Intelligence (AI) Courses
+
+
 
 ## Python Programming (파이썬 프로그래밍)
 - [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
