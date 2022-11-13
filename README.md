@@ -36,3 +36,5 @@
 - [Stanford CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
   - [Youtube](https://www.youtube.com/watch?v=JAB_plj2rbA&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&start_radio=1&rv=JAB_plj2rbA&t=24) 
 
+## Machine Learning on Embedded IoT Devices
+- [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
