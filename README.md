@@ -38,3 +38,6 @@
 
 ## Machine Learning on Embedded IoT Devices
 - [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
+
+## ARTIFICIAL INTELLIGENCE IN HEALTH CARE
+- [MIT ARTIFICIAL INTELLIGENCE IN HEALTH CARE ONLINE SHORT COURSE](https://mit-online.getsmarter.com/presentations/lp/mit-ai-in-healthcare-online-short-course/?cid=9446560702&utm_contentid=421828623817&ef_id=c:421828623817_d:c_n:d_ti:aud-1068151885322_p:kr.investing.com_k:_m:_a:96211681854&gclid=CjwKCAiA68ebBhB-EiwALVC-NoSNUGf9jwvZCEkd7TM2_TbCh-c4Qjmv2IR20tmHO-lzch9CGZAEPBoCv-YQAvD_BwE)
