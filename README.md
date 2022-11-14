@@ -39,4 +39,6 @@
 ## Machine Learning on Embedded IoT Devices
 - [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
 
+## AT for Healthcare
+- [MIT 6.S897 Machine Learning For Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/)
 
